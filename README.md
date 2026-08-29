@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=230&section=header&text=Aseel%20Almehmadi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20%26%20NLP%20Researcher%20%7C%20Award-Winning%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="assets/typing-hands.gif" width="380"/>
 
