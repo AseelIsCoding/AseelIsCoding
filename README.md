@@ -10,7 +10,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AseelIsCoding&color=8A2BE2&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/AseelIsCoding?label=Followers&style=flat-square&color=8A2BE2)
 ![Location](https://img.shields.io/badge/Based%20in-Saudi%20Arabia-8A2BE2?style=flat-square)
 ![GPA](https://img.shields.io/badge/GPA-4.94%2F5.00-8A2BE2?style=flat-square)
 
